@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="driver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/driver/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/jaxb-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver/activation-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
